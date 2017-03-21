@@ -13,3 +13,4 @@ Simple PPG variometer, CHT, EGT and RPM display.
 | CS3 pressure| GPIO 15 |
 | SDA | GPIO 4 |
 | SCL | GPIO 5 |
+| RPM | GPIO 16 |
