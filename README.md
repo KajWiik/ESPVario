@@ -2,6 +2,7 @@
 Simple PPG variometer, CHT, EGT and RPM display.
 
 ## ESP8266 connections
+![ESP pinout](img/esp12e-pinout.png)
 
 | Function | ESP pin | 
 | ------ | ------ |
