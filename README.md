@@ -11,4 +11,5 @@ Simple PPG variometer, CHT, EGT and RPM display.
 | SCK | GPIO 14 |
 | CS1 |   |
 | CS2 |   |
-
+| SDA | GPIO 4 |
+| SCL | GPIO 5 |
