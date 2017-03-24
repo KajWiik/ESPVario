@@ -17,3 +17,4 @@ Simple PPG variometer, CHT, EGT and RPM display.
 | SDA | GPIO 4 |
 | SCL | GPIO 5 |
 | RPM | GPIO 16 |
+|Vario out|GPIO 1|
