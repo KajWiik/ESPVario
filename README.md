@@ -19,3 +19,4 @@ http://www.esp8266.com/wiki/doku.php?id=esp8266_gpio_pin_allocations
 | SCL | GPIO 5 |
 | RPM | GPIO 16 |
 |Vario out|GPIO 1|
+|Battery V|TOUT/ADC|
