@@ -20,3 +20,4 @@ http://www.esp8266.com/wiki/doku.php?id=esp8266_gpio_pin_allocations
 | RPM | GPIO 16 |
 |Vario out|GPIO 1|
 |Battery V|TOUT/ADC|
+|GPS|GPIO 3|
