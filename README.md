@@ -14,7 +14,7 @@ http://www.esp8266.com/wiki/doku.php?id=esp8266_gpio_pin_allocations
 | SCK | GPIO 14 |
 | CS1 EGT | GPIO 0  |
 | CS2 CHT | GPIO 2  |
-| CS3 pressure| GPIO 15 |
+| CS3 SD| GPIO 15 |
 | SDA | GPIO 4 |
 | SCL | GPIO 5 |
 | RPM | GPIO 16 |
