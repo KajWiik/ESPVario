@@ -1,5 +1,5 @@
 # ESPVario
-Simple PPG variometer, CHT, EGT and RPM display. Of course not working yet... :-)
+Simple PPG variometer, CHT, EGT and RPM display. Of course not working yet... :construction: :smile:
 
 ## ESP8266 connections
 
