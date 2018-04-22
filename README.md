@@ -30,7 +30,6 @@ http://www.esp8266.com/wiki/doku.php?id=esp8266_gpio_pin_allocations
 | DC (TFT) | GPIO 16 | D0 |
 | CS (TFT) | GPIO 0 | D3 |
 | Sensor RXD | GPIO 3 | RX |
-| Sensor TXD | GPIO 1 | TX |
 | SDA (pressure, gesture) | GPIO 4 | D2 |
 | SCL (pressure, gesture) | GPIO 5 | D1 |
 
