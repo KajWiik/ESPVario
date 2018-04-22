@@ -31,8 +31,9 @@ http://www.esp8266.com/wiki/doku.php?id=esp8266_gpio_pin_allocations
 | CS (TFT) | GPIO 0 | D3 |
 | Sensor RXD | GPIO 3 | RX |
 | Sensor TXD | GPIO 1 | TX |
-| GPS RXD | GPIO 15 | D8 |
-| SDA | GPIO 4 | D2 |
-| SCL | GPIO 5 | D1 |
+| SDA (pressure, gesture) | GPIO 4 | D2 |
+| SCL (pressure, gesture) | GPIO 5 | D1 |
 
-GPIO 2,9,10
+Vario out, SD, gesture int.
+
+GPIO 2,9,10,15
