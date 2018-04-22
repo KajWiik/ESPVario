@@ -35,4 +35,4 @@ http://www.esp8266.com/wiki/doku.php?id=esp8266_gpio_pin_allocations
 
 Vario out, SD, gesture int.
 
-GPIO 2,9,10,15
+GPIO 1,2,9,10,15
