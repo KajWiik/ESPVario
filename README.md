@@ -21,3 +21,18 @@ http://www.esp8266.com/wiki/doku.php?id=esp8266_gpio_pin_allocations
 |Vario out|GPIO 1|
 |Battery V|TOUT/ADC|
 |GPS|GPIO 3|
+
+| Function | ESP pin | NodeMCU |
+| ------ | ------ | ------ |
+| MISO (TFT) | GPIO 12 | D6 |
+| MOSI (TFT) | GPIO 13 | D7 |
+| SCK (TFT) | GPIO 14 | D5 |
+| DC (TFT) | GPIO 16 | D0 |
+| CS (TFT) | GPIO 0 | D3 |
+| Sensor RXD | GPIO 3 | RX |
+| Sensor TXD | GPIO 1 | TX |
+| GPS RXD | GPIO 15 | D8 |
+| SDA | GPIO 4 | D2 |
+| SCL | GPIO 5 | D1 |
+
+GPIO 2,9,10
