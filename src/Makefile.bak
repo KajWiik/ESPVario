@@ -1,0 +1,6 @@
+# Makefile for the thermostat testing program
+
+PROGRAM=thermostat_testing
+EXTRA_COMPONENTS = extras/sntp
+
+include ../../common.mk
